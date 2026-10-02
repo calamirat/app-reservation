@@ -16,7 +16,7 @@ Il souhaite avoir un appli qui fera le 48h ouvrable pour lui et qui nécessite m
 
 ## L'expérience
 
-![Schéma de navigation] 
+![Schéma de navigation](navigation.drawio.png)
 
 ![Écran principal](ecran-principal.jpg)
 
